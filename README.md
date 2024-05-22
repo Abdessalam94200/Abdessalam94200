@@ -9,7 +9,7 @@
 
 - 🤝 I collaborated on Product Strategy Canvas for Sanitoral , focusing on developing actionable insights for product development and market positioning within the health sector. This project honed my strategic thinking and product strategy skills. **Product Strategy Canvas**
 
-- 📊 My project, Data Preparation for Bouygues, involved advanced data cleaning techniques and the application of machine learning models to refine our data analysis process for better decision-making. It was a challenging task that improved my data preprocessing skills significantly. **Data preparation for Sanitoral.**
+- 📊 My project, Data Preparation for ESN Data, involved advanced data cleaning techniques and the application of machine learning models to refine our data analysis process for better decision-making. It was a challenging task that improved my data preprocessing skills significantly. **Data preparation for Sanitoral.**
 
 - 📫 How to reach me [salamdin05@gmail.com](salamdin05@gmail.com)
 
