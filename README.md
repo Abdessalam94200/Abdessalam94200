@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abdessalam</h1>
 <h3 align="center">A passionate data analyst from France, leveraging data to unlock insights and drive strategic decisions.</h3>
 
-- 🔍 I have worked on Data Analysis for Fortuneo Bank: a project aimed at enhancing financial data analysis to predict market trends and improve banking services. This experience solidified my ability to analyze financial datasets and extract meaningful insights. **Analyse data**
+- 🔍 I have worked on Data Analysis for Primero Bank: a project aimed at enhancing financial data analysis to predict market trends and improve banking services. This experience solidified my ability to analyze financial datasets and extract meaningful insights. **Analyse data**
 
 - 🤝 I collaborated on Product Strategy Canvas for Sanitoral , focusing on developing actionable insights for product development and market positioning within the health sector. This project honed my strategic thinking and product strategy skills. **Product Strategy Canvas**
 
