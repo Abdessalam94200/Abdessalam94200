@@ -7,7 +7,7 @@
 
 - 🔍 I have worked on Data Analysis for Fortuneo Bank: a project aimed at enhancing financial data analysis to predict market trends and improve banking services. This experience solidified my ability to analyze financial datasets and extract meaningful insights. **Analyse data**
 
-- 🤝 I collaborated on Product Strategy Canvas for Bouygues, focusing on developing actionable insights for product development and market positioning within the health sector. This project honed my strategic thinking and product strategy skills. **Product Strategy Canvas**
+- 🤝 I collaborated on Product Strategy Canvas for Sanitoral , focusing on developing actionable insights for product development and market positioning within the health sector. This project honed my strategic thinking and product strategy skills. **Product Strategy Canvas**
 
 - 📊 My project, Data Preparation for Bouygues, involved advanced data cleaning techniques and the application of machine learning models to refine our data analysis process for better decision-making. It was a challenging task that improved my data preprocessing skills significantly. **Data preparation for Sanitoral.**
 
